@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome on my profile.
+Welcome to my profile.
 
 Feel free to add me on here or on
 - Discord: [Nenox#8695](https://support.discord.com/hc/en-us/articles/218344397-How-do-I-add-my-friend-to-my-friends-list)
