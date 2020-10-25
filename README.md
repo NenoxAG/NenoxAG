@@ -2,7 +2,7 @@
 
 Welcome on my profile.
 
-Feel free to add me on
+Feel free to add me on here or on
 - Discord: [Nenox#8695](https://support.discord.com/hc/en-us/articles/218344397-How-do-I-add-my-friend-to-my-friends-list)
 - Steam: [Nenox](https://steamcommunity.com/id/nenoxsoft/)
 
