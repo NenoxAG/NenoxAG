@@ -8,7 +8,7 @@ Feel free to add me on here or on
 
 #### My Projects 🗄️
 
-Currently i don't have many public projects. Maybe that will change in the future but who knows. 🤔
+Currently i only have some small public projects. Maybe that will change in the future but who knows. 🤔
 
 #### My Stats 📈
 
