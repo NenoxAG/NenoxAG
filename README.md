@@ -16,7 +16,7 @@ Currently i only have some small public projects. Maybe that will change in the 
 <br><br>
 ![Nenox's github stats](https://github-readme-stats.vercel.app/api?username=NenoxAG&count_private=true&show_icons=true)
 <br><br>
-![Nenox's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NenoxAG&layout=compact)
+![Nenox's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nenox&layout=compact)
 <!--
 **NenoxAG/NenoxAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
