@@ -3,7 +3,7 @@
 Welcome to my profile.
 
 Feel free to add me on here or on
-- Discord: [Nenox#1337](https://discord.com/users/332822406869549057)
+- Discord: [Nenox#0661](https://discord.com/users/332822406869549057)
 - Steam: [Nenox](https://steamcommunity.com/id/nenoxsoft/)
 
 #### My Projects 🗄️
